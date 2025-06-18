@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kumar+Pandey;Full+Stack+Developer+%7C+ML+Engineer+%7C+Cloud+Native+Builder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kumar+Pandey;Full+Stack+Developer+%7C+SOFTWARE+ENGINEER"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933"/>
-  <img src="https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&color=FF9900"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED"/>
+  <a href="https://github.com/ABHISHEK-AKP"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ABHISHEK-AKP?style=social"></a>
+  <a href="https://www.linkedin.com/in/abhishek-kumar-pandey-se/"><img alt="LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:abhishekkumarpandey2803@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
@@ -23,23 +21,35 @@
 
 ## 🔧 Tech Stack
 
-| Domain         | Technologies                                                                                         |
-|----------------|------------------------------------------------------------------------------------------------------|
-| **Languages**  | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
-| **Frontend**   | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg) ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |
-| **Backend**    | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) |
-| **Databases**  | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
-| **Cloud & DevOps** | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
-| **ML & Data**  | ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg) |
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-AKP&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-AKP&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ABHISHEK-AKP&theme=radical"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-AKP&show_icons=true&theme=radical"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-AKP&layout=compact&theme=radical"/>
+  <br>
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=ABHISHEK-AKP&theme=radical"/>
 </p>
 
 ---
@@ -68,8 +78,8 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kumar-pandey-se/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
-  <a href="mailto:abhishekkumarpandey2803@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red"/></a>
+  <a href="https://www.linkedin.com/in/abhishek-kumar-pandey-se/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:abhishekkumarpandey2803@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
