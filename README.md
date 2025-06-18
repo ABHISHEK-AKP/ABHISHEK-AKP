@@ -1,19 +1,27 @@
-# 👋 Hi, I'm Abhishek Kumar Pandey
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kumar+Pandey;Full+Stack+Developer+%7C+ML+Engineer+%7C+Cloud+Native+Builder"/>
+</p>
 
-🚀 **Full Stack Software Engineer** | Backend, Frontend & ML Developer | Cloud-Native Solutions  
-🌐 Passionate about building scalable web applications and AI-driven products using modern technologies.  
-🎓 Master of Engineering in Computer Engineering | University of Guelph  
-🎓 B.E. in Computer Science | Chitkara University (CGPA: 9.69/10.00)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933"/>
+  <img src="https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&color=FF9900"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED"/>
+</p>
 
 ---
 
-## 💼 Professional Summary
+## 💼 About Me
 
-I am a software engineer with 2+ years of industry experience in developing and deploying scalable full-stack applications, integrating third-party services like Stripe and Shopify, and building ML-powered solutions. I’ve worked across healthcare and SaaS domains, actively contributing to both backend and frontend systems, CI/CD pipelines, and cloud infrastructure on AWS. I'm a proactive team player and mentor with experience in Agile environments.
+🎓 Pursuing M.Eng in Computer Engineering — University of Guelph   
+👨‍💻 2+ years of experience in full-stack development, ML systems, and cloud-native architecture  
+⚡ I love building scalable SaaS apps, ML-driven tools, and intuitive UI/UX systems  
+💬 Always open to collaboration, mentorship, and new challenges
 
 ---
 
-## 🔧 Tech Stack (with GIFs)
+## 🔧 Tech Stack
 
 | Domain         | Technologies                                                                                         |
 |----------------|------------------------------------------------------------------------------------------------------|
@@ -22,17 +30,17 @@ I am a software engineer with 2+ years of industry experience in developing and 
 | **Backend**    | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) |
 | **Databases**  | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) |
 | **Cloud & DevOps** | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
-| **ML & Data**  | ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg) |
+| **ML & Data**  | ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg) |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHISHEK-AKP&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-AKP&layout=compact&theme=radical)](https://github.com/ABHISHEK-AKP)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ABHISHEK-AKP&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-AKP&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-AKP&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ABHISHEK-AKP&theme=radical"/>
+</p>
 
 ---
 
@@ -59,9 +67,11 @@ I am a software engineer with 2+ years of industry experience in developing and 
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 📬 Email: abhishekkumarpandey2803@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-pandey-se/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"/></a>
+  <a href="mailto:abhishekkumarpandey2803@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red"/></a>
+</p>
 
 ---
 
-_⚡ Passionate about transforming ideas into scalable code. Let’s build something amazing!_
+<p align="center"><em>⚡ Passionate about transforming ideas into scalable code. Let’s build something amazing!</em></p>
