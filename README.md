@@ -83,7 +83,6 @@
 - Contributed to cloud-based .NET solutions, building UI features in WinForms and WPF.
 
 **Skills**: Node.js, React, Angular, C#, CI/CD, AWS Lambda, MongoDB, SQL, DevOps, Jenkins, ERP Systems
-<img width="468" height="191" alt="image" src="https://github.com/user-attachments/assets/eb220c09-3bd2-4439-a0e0-f4a0102b71a2" />
 
 
 ---
