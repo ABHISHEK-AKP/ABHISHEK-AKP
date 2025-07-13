@@ -62,12 +62,12 @@
 
 ## 🔍 Work Experience Highlights
 
-### 👨‍💻 Software Engineer – Upfront HealthCare (Jul 2023 – Jan 2024)
+### 👨‍💻 Software Engineer – Upfront HealthCare (Jun 2023 – Jan 2024)
 - Developed RESTful microservices and ML-backed recommendation systems using Python and Node.js
 - Integrated Stripe and Shopify APIs for secure transactions and SaaS tools
 - Collaborated in an Agile team and mentored junior developers
 
-### 👨‍💻 Software Engineer – PatientBond (May 2022 – Jun 2023)
+### 👨‍💻 Software Engineer – PatientBond (May 2022 – May 2023)
 - Built full-stack apps with Node.js, React, Angular
 - Managed 25M+ records using MySQL, PostgreSQL, MongoDB
 - Deployed serverless functions on AWS Lambda and implemented CI/CD with Jenkins & AWS CodePipeline
