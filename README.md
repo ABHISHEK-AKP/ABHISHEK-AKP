@@ -63,14 +63,28 @@
 ## 🔍 Work Experience Highlights
 
 ### 👨‍💻 Software Engineer – Upfront HealthCare (Jun 2023 – Jan 2024)
-- Developed RESTful microservices and ML-backed recommendation systems using Python and Node.js
-- Integrated Stripe and Shopify APIs for secure transactions and SaaS tools
-- Collaborated in an Agile team and mentored junior developers
+- Engineered secure and modular RESTful microservices using Node.js and Python, boosting system data throughput by 20%.
+- Orchestrated seamless end-to-end payment workflows by integrating Stripe APIs, streamlining user transactions.
+- Developed scalable SaaS capabilities by integrating Shopify APIs for multi-client onboarding.
+- Designed and deployed ML-powered patient recommendation algorithms, reducing system latency by 30%.
+- Spearheaded Agile ceremonies (daily stand-ups, sprint planning), reviewed codebase, and mentored junior developers.
+- Partnered cross-functionally with design and data teams to modernize system architecture and deploy emerging technologies.
+
+**Skills**: Node.js, Python, Stripe, Shopify API, Machine Learning, REST APIs, Agile, Microservices, Mentorship, AWS
+
+
 
 ### 👨‍💻 Software Engineer – PatientBond (May 2022 – May 2023)
-- Built full-stack apps with Node.js, React, Angular
-- Managed 25M+ records using MySQL, PostgreSQL, MongoDB
-- Deployed serverless functions on AWS Lambda and implemented CI/CD with Jenkins & AWS CodePipeline
+- Developed user-focused full-stack applications using Node.js, React, and Angular.
+- Handled 25M+ records by administering high-throughput databases (MySQL, PostgreSQL, MongoDB).
+- Built and maintained CI/CD pipelines using AWS CodePipeline and Jenkins to automate deployment cycles.
+- Deployed backend automation using AWS Lambda, improving backend processing speed.
+- Integrated Microsoft Dynamics ERP to synchronize operational and business workflows.
+- Contributed to cloud-based .NET solutions, building UI features in WinForms and WPF.
+
+**Skills**: Node.js, React, Angular, C#, CI/CD, AWS Lambda, MongoDB, SQL, DevOps, Jenkins, ERP Systems
+<img width="468" height="191" alt="image" src="https://github.com/user-attachments/assets/eb220c09-3bd2-4439-a0e0-f4a0102b71a2" />
+
 
 ---
 
