@@ -48,7 +48,7 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-AKP&show_icons=true&theme=radical"/>
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-AKP&layout=compact&theme=radical"/>
   <br>
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=ABHISHEK-AKP&theme=radical"/>
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
